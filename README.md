@@ -26,7 +26,7 @@
   </a>
 </div>
 
-<div  align="end" >
+<div align="end" >
   ![Rezwan's GitHub stats](https://github-readme-stats.vercel.app/api?username=rezwanhossen&show_icons=true&theme=radical) 
 </div>
 
