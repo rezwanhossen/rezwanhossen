@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.ibb.co/G9Q9q9Y/Modern-Minimalist-Simple-Technology-Youtube-Channel-Art.jpg" alt="Banner Image" width="100%" />
+  <img src="https://i.ibb.co/Vvw6ZmS/Modern-Minimalist-Simple-Technology-Youtube-Channel-Art-1.jpg" alt="Banner Image" width="100%" />
 </div>
 <h1>Hello, I'm Rezwan Hossen</h1>
 <h3>About Us :</h3>
