@@ -4,8 +4,8 @@
 <h1>Hello, I'm Rezwan Hossen</h1>
 ## About Us
 
-<div style="display: flex; justify-content: space-between; align-items: flex-start;">
-  <div style="max-width: 50%;">
+<div >
+  <div align="left">
     <h3>About Us:</h3>
     <p>Hello! I'm Rezwan Hossen, a dedicated Web Developer and a Computer Science and Engineering student currently in my third year. I am passionate about creating seamless and engaging web experiences, and I specialize in:</p>
     <ul>
