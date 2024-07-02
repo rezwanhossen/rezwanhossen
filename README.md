@@ -4,9 +4,11 @@
 <h1>Hello, I'm Rezwan Hossen</h1>
 <h3>About Us :</h3>
 <p>I’m Rezwan Hossen, a Web Developer and a Computer Science and Engineering student in my third year. I specialize in:</p>
-- <b>HTML:</b> Structuring the web with clean and semantic markup.
+<ul>
+  - <b>HTML:</b> Structuring the web with clean and semantic markup.
 - <b>CSS:</b> Creating stylish and responsive designs.
 - <b>React :</b> Building modern, dynamic user interfaces.
+</ul>
 
 # current state 
 
