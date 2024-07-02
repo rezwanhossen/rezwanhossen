@@ -2,12 +2,22 @@
   <img src="https://i.ibb.co/Vvw6ZmS/Modern-Minimalist-Simple-Technology-Youtube-Channel-Art-1.jpg" alt="Banner Image" width="100%" />
 </div>
 <h1>Hello, I'm Rezwan Hossen</h1>
-<h3>About Us :</h3>
-<p>I’m Rezwan Hossen, a Web Developer and a Computer Science and Engineering student in my third year. I specialize in:</p>
-<ul>
-  <li>Structuring the web with clean and semantic markup.</li>
-  <li>Structuring the web with clean and semantic markup.</li>
-</ul>
+## About Us
+
+<div style="display: flex; justify-content: space-between; align-items: flex-start;">
+  <div style="max-width: 50%;">
+    <h3>About Us:</h3>
+    <p>Hello! I'm Rezwan Hossen, a dedicated Web Developer and a Computer Science and Engineering student currently in my third year. I am passionate about creating seamless and engaging web experiences, and I specialize in:</p>
+    <ul>
+      <li><b>HTML:</b> Structuring the web with clean and semantic markup.</li>
+      <li><b>CSS:</b> Creating stylish and responsive designs.</li>
+      <li><b>React:</b> Building modern, dynamic user interfaces.</li>
+    </ul>
+  </div>
+  <div>
+    <img alt="Coder GIF" height="250" width="350" src="https://magiccopy.xyz/assets/images/hadder.gif" />
+  </div>
+</div>
 
 
 # current state 
