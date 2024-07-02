@@ -1,9 +1,9 @@
 ## Hi there 👋
 <div>
-<a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
+<a href="https://github.com/rezwanhossen/github-readme-stats#gh-light-mode-only">
   <img src="https://github-readme-stats.vercel.app/api?username=lifeparticle&theme=graywhite&show_icons=true#gh-light-mode-only" width="350" align="right" />
 </a>
-<a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
+<a href="https://github.com/rezwanhossen/github-readme-stats#gh-dark-mode-only">
   <img src="https://github-readme-stats.vercel.app/api?username=lifeparticle&theme=dark&show_icons=true#gh-dark-mode-only" width="350" align="right" />
 </a>
 
