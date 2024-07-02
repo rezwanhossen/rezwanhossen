@@ -1,3 +1,6 @@
+<div align="center">
+  <img src="https://i.ibb.co/G9Q9q9Y/Modern-Minimalist-Simple-Technology-Youtube-Channel-Art.jpg" alt="Banner Image" width="100%" />
+</div>
 ## Hi there 👋
 
 <div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
