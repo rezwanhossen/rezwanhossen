@@ -1,10 +1,10 @@
 <div align="center">
   <img src="https://i.ibb.co/Vvw6ZmS/Modern-Minimalist-Simple-Technology-Youtube-Channel-Art-1.jpg" alt="Banner Image" width="100%" />
 </div>
-<h1>Hello, I'm Rezwan Hossen</h1>
+
 <div>
   <div align="left">
-    <h3>About Us:</h3>
+    <h1>About Us:</h1>
     <p>Hello! I'm Rezwan Hossen, a dedicated Web Developer and a Computer Science and Engineering student currently in my third year. I am passionate about creating seamless and engaging web experiences, and I specialize in:</p>
     <ul>
       <li><b>HTML:</b> Structuring the web with clean and semantic markup.</li>
