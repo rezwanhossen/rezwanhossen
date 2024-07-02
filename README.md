@@ -19,7 +19,12 @@
 </div>
 
 # Reach me out
-[<img height="75" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Instagram.png">](https://www.instagram.com/rezwan.33/)
+<p align="center">
+  [<img height="75" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Linkedin.png">](https://www.linkedin.com/in/rezwan-hossen-77b057316/)
+  [<img height="75" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Facebook.png">](https://www.facebook.com/profile.php?id=100059470159235)
+  [<img height="75" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Instagram.png">](https://www.instagram.com/rezwan.33/)
+</p>
+
  
 </br>
 
