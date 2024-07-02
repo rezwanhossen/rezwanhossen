@@ -25,6 +25,7 @@
 
 ![Rezwan's GitHub stats](https://github-readme-stats.vercel.app/api?username=rezwanhossen&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 
+![Rezwan's GitHub stats](https://github-readme-stats.vercel.app/api?username=rezwanhossen&show_icons=true&theme=radical)
 
 
 <!--
