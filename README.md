@@ -16,22 +16,6 @@
 </div>
 
 
-<div>
-  <div align="start">
-  <a href="https://git.io/streak-stats#gh-light-mode-only">
-    <img src="http://github-readme-streak-stats.herokuapp.com?user=rezwanhossen&theme=graywhite#gh-light-mode-only" width="350" />
-  </a>
-  <a href="https://git.io/streak-stats#gh-dark-mode-only">
-    <img src="http://github-readme-streak-stats.herokuapp.com?user=rezwanhossen&theme=dark#gh-dark-mode-only" width="350" />
-  </a>
-</div>
-
-<div align="end" >
-  ![Rezwan's GitHub stats](https://github-readme-stats.vercel.app/api?username=rezwanhossen&show_icons=true&theme=radical) 
-</div>
-
-</div>
-
 
 
 
