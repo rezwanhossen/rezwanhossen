@@ -1,6 +1,10 @@
 <div align="center">
   <img src="https://i.ibb.co/G9Q9q9Y/Modern-Minimalist-Simple-Technology-Youtube-Channel-Art.jpg" alt="Banner Image" width="100%" />
 </div>
+<h1>Hello, I'm Rezwan Hossen</h1>
+<h3>About Us :</h3>
+I'm a Web Developer with hands-on experience in:
+- <b>HTML: </b>Crafting well-structured web pages.
 
 # current state 
 
