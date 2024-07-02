@@ -24,6 +24,8 @@
 
 
 [![Github gists](https://gist-count.vercel.app/api?username=rezwanhossen)](https://gist.github.com/rezwanhossen)
+[![Profile views](https://profile-counter.glitch.me/rezwanhossen/count.svg)](https://github.com/rezwanhossen)
+
 
 
 
