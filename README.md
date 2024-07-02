@@ -16,7 +16,8 @@
 </div>
 
 ![Rezwan's GitHub stats](https://github-readme-stats.vercel.app/api?username=rezwanhossen&show_icons=true&theme=radical) 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rezwanhossen&hide=javascript,html)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rezwanhossen&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
