@@ -15,7 +15,9 @@
   </a>
 </div>
 
-![Rezwan's GitHub stats](https://github-readme-stats.vercel.app/api?username=rezwanhossen&show_icons=true&theme=radical)
+![Rezwan's GitHub stats](https://github-readme-stats.vercel.app/api?username=rezwanhossen&show_icons=true&theme=radical) 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rezwanhossen&hide_progress=true)
+
 
 
 <!--
