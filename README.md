@@ -2,9 +2,7 @@
   <img src="https://i.ibb.co/Vvw6ZmS/Modern-Minimalist-Simple-Technology-Youtube-Channel-Art-1.jpg" alt="Banner Image" width="100%" />
 </div>
 <h1>Hello, I'm Rezwan Hossen</h1>
-## About Us
 
-<div >
   <div align="left">
     <h3>About Us:</h3>
     <p>Hello! I'm Rezwan Hossen, a dedicated Web Developer and a Computer Science and Engineering student currently in my third year. I am passionate about creating seamless and engaging web experiences, and I specialize in:</p>
@@ -18,7 +16,7 @@
    <img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/14a82c9065ad50c7e8ef3fdf2463d22b0ef77c23c43784378e709d588130a58c/68747470733a2f2f7374617469632e7769787374617469632e636f6d2f6d656469612f6262653634325f36323431346535306265663334636532386462316166616266353566313765637e6d76322e676966"
 
   </div>
-</div>
+
 
 
 # current state 
