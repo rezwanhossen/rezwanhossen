@@ -3,8 +3,12 @@
 </div>
 <h1>Hello, I'm Rezwan Hossen</h1>
 <h3>About Us :</h3>
-I’m Rezwan Hossen, a Web Developer and a Computer Science and Engineering student in my third year. I specialize in:
-- **HTML**: Structuring the web with clean and semantic markup.
+<p>I’m Rezwan Hossen, a Web Developer and a Computer Science and Engineering student in my third year. I specialize in:</p>
+<ul>
+  <li>Structuring the web with clean and semantic markup.</li>
+  <li>Structuring the web with clean and semantic markup.</li>
+</ul>
+
 
 # current state 
 
