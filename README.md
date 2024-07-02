@@ -17,14 +17,6 @@
 
 </div> -->
 </div>
-
-# Reach me out
-<p align="center">
-  [<img height="75" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Linkedin.png">](https://www.linkedin.com/in/rezwan-hossen-77b057316/)
-  [<img height="75" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Facebook.png">](https://www.facebook.com/profile.php?id=100059470159235)
- 
-</p>
-
  
 </br>
 
