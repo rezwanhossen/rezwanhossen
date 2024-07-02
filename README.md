@@ -1,6 +1,7 @@
 ## Hi there 👋
 
-<div align="center">
+<div>
+  <div align="start">
   <a href="https://git.io/streak-stats#gh-light-mode-only">
     <img src="http://github-readme-streak-stats.herokuapp.com?user=rezwanhossen&theme=graywhite#gh-light-mode-only" width="350" />
   </a>
@@ -9,9 +10,12 @@
   </a>
 </div>
 
+<div  align="end" >
+  ![Rezwan's GitHub stats](https://github-readme-stats.vercel.app/api?username=rezwanhossen&show_icons=true&theme=radical) 
+</div>
 
-![Rezwan's GitHub stats](https://github-readme-stats.vercel.app/api?username=rezwanhossen&show_icons=true&theme=radical) 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rezwanhossen&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+</div>
+
 
 
 
