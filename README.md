@@ -28,7 +28,6 @@
     <a href="https://git.io/streak-stats#gh-light-mode-only">
       <img src="http://github-readme-streak-stats.herokuapp.com?user=rezwanhossen&theme=graywhite#gh-light-mode-only" width="350" />
     </a>
-    ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MdnadeemSarwar&theme=radical&border=false&include_all_commits=true&count_private=true&layout=compact)
     <a href="https://git.io/streak-stats#gh-dark-mode-only">
       <img src="http://github-readme-streak-stats.herokuapp.com?user=rezwanhossen&theme=dark#gh-dark-mode-only" width="350" />
     </a>
@@ -37,6 +36,7 @@
   <div style="flex: 1; min-width: 300px; text-align: right;">
     <img src="https://github-readme-stats.vercel.app/api?username=rezwanhossen&show_icons=true&theme=radical" />
   </div>
+  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MdnadeemSarwar&theme=radical&border=false&include_all_commits=true&count_private=true&layout=compact)
 </div>
 
 # Languages and Tools :
