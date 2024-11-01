@@ -19,31 +19,7 @@
 
 
 
-<!--# Current State
 
-<div style="display: flex; ">
-
-  
-  <div >
-    <a href="https://git.io/streak-stats#gh-light-mode-only">
-      <img src="http://github-readme-streak-stats.herokuapp.com?user=rezwanhossen&theme=graywhite#gh-light-mode-only" width="350" />
-    </a>
-    <a href="https://git.io/streak-stats#gh-dark-mode-only">
-      <img src="http://github-readme-streak-stats.herokuapp.com?user=rezwanhossen&theme=dark#gh-dark-mode-only" width="350" />
-    </a>
-  </div>
-
-  
-  <div>
-    <img src="https://github-readme-stats.vercel.app/api?username=rezwanhossen&show_icons=true&theme=radical" width="350" />
-  </div>
-
-  
-  <div >
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rezwanhossen&theme=radical&border=false&include_all_commits=true&count_private=true&layout=compact" width="350" />
-  </div>
-
-</div>-->
 # Current State
 
 <table>
