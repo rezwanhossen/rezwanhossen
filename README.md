@@ -18,26 +18,10 @@
 </br>
 
 
-<!--# current state 
 
-<div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
-  <div style="flex: 1; min-width: 300px;">
-    <a href="https://git.io/streak-stats#gh-light-mode-only">
-      <img src="http://github-readme-streak-stats.herokuapp.com?user=rezwanhossen&theme=graywhite#gh-light-mode-only" width="350" />
-    </a>
-    <a href="https://git.io/streak-stats#gh-dark-mode-only">
-      <img src="http://github-readme-streak-stats.herokuapp.com?user=rezwanhossen&theme=dark#gh-dark-mode-only" width="350" />
-    </a>
-  </div>
-
-  <div style="flex: 1; min-width: 300px; text-align: right;">
-    <img src="https://github-readme-stats.vercel.app/api?username=rezwanhossen&show_icons=true&theme=radical" />
-  </div>
-  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MdnadeemSarwar&theme=radical&border=false&include_all_commits=true&count_private=true&layout=compact)
-</div>-->
 # Current State
 
-<div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
+<div style="display: flex; ">
 
   <!-- GitHub Streak Stats -->
   <div style="flex: 1; min-width: 300px;">
