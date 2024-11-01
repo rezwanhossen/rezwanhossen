@@ -12,10 +12,10 @@
       <li><b>React:</b> Building modern, dynamic user interfaces.</li>
     </ul>
   </div>
-<!--   <div align="right">
+  <div align="right">
 <img alt="coding" width="400" src="https://camo.githubusercontent.com/14a82c9065ad50c7e8ef3fdf2463d22b0ef77c23c43784378e709d588130a58c/68747470733a2f2f7374617469632e7769787374617469632e636f6d2f6d656469612f6262653634325f36323431346535306265663334636532386462316166616266353566313765637e6d76322e676966" />
 
-</div> -->
+</div>
 </div>
  
 </br>
@@ -28,7 +28,6 @@
     <a href="https://git.io/streak-stats#gh-light-mode-only">
       <img src="http://github-readme-streak-stats.herokuapp.com?user=rezwanhossen&theme=graywhite#gh-light-mode-only" width="350" />
     </a>
-    ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MdnadeemSarwar&theme=radical&border=false&include_all_commits=true&count_private=true&layout=compact)
     <a href="https://git.io/streak-stats#gh-dark-mode-only">
       <img src="http://github-readme-streak-stats.herokuapp.com?user=rezwanhossen&theme=dark#gh-dark-mode-only" width="350" />
     </a>
