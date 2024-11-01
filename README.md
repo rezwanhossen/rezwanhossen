@@ -24,7 +24,7 @@
 <div style="display: flex; ">
 
   <!-- GitHub Streak Stats -->
-  <div style="flex: 1; min-width: 300px;">
+  <div >
     <a href="https://git.io/streak-stats#gh-light-mode-only">
       <img src="http://github-readme-streak-stats.herokuapp.com?user=rezwanhossen&theme=graywhite#gh-light-mode-only" width="350" />
     </a>
@@ -34,12 +34,12 @@
   </div>
 
   <!-- GitHub Stats -->
-  <div style="flex: 1; min-width: 300px;">
+  <div>
     <img src="https://github-readme-stats.vercel.app/api?username=rezwanhossen&show_icons=true&theme=radical" width="350" />
   </div>
 
   <!-- Top Languages -->
-  <div style="flex: 1; min-width: 300px;">
+  <div >
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rezwanhossen&theme=radical&border=false&include_all_commits=true&count_private=true&layout=compact" width="350" />
   </div>
 
