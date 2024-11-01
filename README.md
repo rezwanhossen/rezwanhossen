@@ -57,13 +57,9 @@
         <img src="http://github-readme-streak-stats.herokuapp.com?user=rezwanhossen&theme=dark#gh-dark-mode-only" width="350" />
       </a>
     </td>
-
-    <!-- GitHub Stats -->
     <td>
       <img src="https://github-readme-stats.vercel.app/api?username=rezwanhossen&show_icons=true&theme=radical" width="350" />
     </td>
-
-    <!-- Top Languages -->
     <td>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rezwanhossen&theme=radical&border=false&include_all_commits=true&count_private=true&layout=compact" width="350" />
     </td>
