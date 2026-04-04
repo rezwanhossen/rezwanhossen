@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.ibb.co/Vvw6ZmS/Modern-Minimalist-Simple-Technology-Youtube-Channel-Art-1.jpg" alt="Banner Image" width="100%" />
+  <img src="https://i.ibb.co.com/WW6Zt4D6/1771596448706.jpg" alt="Banner Image" width="100%" />
 </div>
 
 <div>
